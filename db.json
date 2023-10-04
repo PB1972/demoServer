@@ -1,0 +1,40 @@
+{
+    "persone" : 
+    [
+        {
+            "id": 1,
+            "nome":"luca",
+            "cognome":"rossi",
+            "eta": 25,
+            "interessi":["tennis","vela"]
+        },
+        {
+            "id": 2,
+            "nome":"anna",
+            "cognome":"neri",
+            "eta": 40,
+            "interessi":["calcio","carte"]
+        },
+        {
+            "id": 3,
+            "nome":"sara",
+            "cognome":"verdi",
+            "eta": 35,
+            "interessi":["calcio","palla bollata"]
+        },
+        {
+            "id": 4,
+            "nome":"nadia",
+            "cognome":"bianchi",
+            "eta": 20,
+            "interessi":["tennis","ping pong"]
+        },
+        {
+            "id": 5,
+            "nome":"eric",
+            "cognome":"savona",
+            "eta": 65,
+            "interessi":["ballo","carte"]
+        }
+    ]
+}
