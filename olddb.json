@@ -1,3 +1,5 @@
+{
+    "persone" : 
     [
         {
             "id": 1,
@@ -35,3 +37,4 @@
             "interessi":["ballo","carte"]
         }
     ]
+}
